@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+    <img alt="DevRadar" title="#delicinha" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-10/master/.github/devradar.svg?sanitize=true" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-10/master/.github/devradar.png">
 </p>
 
 <p align="center">
