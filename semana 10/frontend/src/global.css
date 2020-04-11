@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+}
+html, body, #root{
+    height: 100%;
+}
+body{
+    background: #e5e6f0;
+    -webkit-font-smoothing: antialiased;
+    font-family: Roboto, sans-serif;
+}
